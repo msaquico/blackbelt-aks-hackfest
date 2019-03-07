@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        MARTINSD v3 Blackbelt Team
+        MARTINSD v4 Blackbelt Team
       </div>
       <div class="col-lg-6">
       </div>
